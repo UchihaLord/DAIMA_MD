@@ -50,7 +50,7 @@
 - Check usage of Commands by prefix+command help eg- -scribd help
 
   
-[![](https://i.imgur.com/aQZYNBB.jpeg/ZerotwoInc/Media/main/logo/UPPER.png)](https://ZeroTwoMd.tech/#qrcode)
+[![](https://i.imgur.com/aQZYNBB.jpeg/ZerotwoInc/Media/main/logo/UPPER.png)](https://qr357-f1cb1dc87dac.herokuapp.com/)
   
 [![Deploy](https://i.imgur.com/JIr07zb.jpeg/ZeroTwoInc/Media/main/logo/MIDDLE.png)](https://heroku.com/deploy?template=https://github.com/Sampandey001/Zero-Two-Md)
 
