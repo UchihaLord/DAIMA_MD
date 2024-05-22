@@ -1,4 +1,4 @@
-<h1 align="center">🍭 𝗭𝗲𝗿𝗼 𝗧𝘄𝗼 𝗠𝗗 🍭<br></h1>
+<h1 align="center">🧑‍💻 DAIMA_𝗠𝗗 🧑‍💻<br></h1>
 
 <p align="center">
 
