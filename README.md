@@ -1,3 +1,4 @@
+
 <h1 align="center">🧑‍💻 DAIMA_𝗠𝗗 🧑‍💻<br></h1>
 
 <p align="center">
@@ -12,7 +13,7 @@
   A Moduler WhatsApp Bot designed for both PM and Groups - To take your boring WhatsApp usage into a whole different level.
 
    
-###  “This Userbot is no longer supported, please consider using [Secktor-MD](https://github.com/CitelVoid/Secktor-Md) instead.”
+###  “This Userbot is no longer supported, please consider using [BULLSEYE-MD](https://github.com/henrygokugt99/NEXA-MD) instead.”
 
 
 
