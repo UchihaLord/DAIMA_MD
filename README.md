@@ -50,11 +50,11 @@
 - Check usage of Commands by prefix+command help eg- -scribd help
 
   
-[![](https://raw.githubusercontent.com/Daima-mdInc/Media/main/logo/UPPER.png)](https://ZeroTwoMd.tech/#paircode)
+[![](https://i.imgur.com/TR4EDzy.jpeg/ZerotwoInc/Media/main/logo/UPPER.png)](https://ZeroTwoMd.tech/#qrcode)
   
-[![Deploy](https://raw.githubusercontent.com/ZeroTwoInc/Media/main/logo/MIDDLE.png)](https://heroku.com/deploy?template=https://github.com/Sampandey001/Zero-Two-Md)
+[![Deploy](https://i.imgur.com/TR4EDzy.jpeg/ZeroTwoInc/Media/main/logo/MIDDLE.png)](https://heroku.com/deploy?template=https://github.com/Sampandey001/Zero-Two-Md)
 
-[![](https://raw.githubusercontent.com/ZeroTwoInc/Media/main/logo/LOWER.png)](https://youtu.be/rqbeusycfHU)
+[![](https://i.imgur.com/TR4EDzy.jpeg/ZeroTwoInc/Media/main/logo/LOWER.png)](https://youtu.be/rqbeusycfHU)
 
 ## Whatsapp Group
 
