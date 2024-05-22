@@ -52,9 +52,9 @@
   
 [![](https://i.imgur.com/aQZYNBB.jpeg/ZerotwoInc/Media/main/logo/UPPER.png)](https://qr357-f1cb1dc87dac.herokuapp.com/)
   
-[![Deploy](https://i.imgur.com/JIr07zb.jpeg/ZeroTwoInc/Media/main/logo/MIDDLE.png)](https://heroku.com/deploy?template=https://github.com/Sampandey001/Zero-Two-Md)
+[![Deploy](https://i.imgur.com/JIr07zb.jpeg/ZeroTwoInc/Media/main/logo/MIDDLE.png)](https://heroku.com/deploy?template=https://github.com/henrygokugt99/DAIMA_MD)
 
-[![](https://i.imgur.com/5qMY5Ks.jpeg/ZeroTwoInc/Media/main/logo/LOWER.png)](https://youtu.be/rqbeusycfHU)
+[![](https://i.imgur.com/5qMY5Ks.jpeg/ZeroTwoInc/Media/main/logo/LOWER.png)](https://youtu.be/KVrt3iKO4L0?si=cdvyAZylHMXqGgWB)
 
 ## Whatsapp Group
 
