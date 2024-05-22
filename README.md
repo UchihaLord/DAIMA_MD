@@ -13,17 +13,17 @@
   A Moduler WhatsApp Bot designed for both PM and Groups - To take your boring WhatsApp usage into a whole different level.
 
    
-###  “This Userbot is no longer supported, please consider using [BULLSEYE-MD](https://github.com/henrygokugt99/NEXA-MD) instead.”
+###  “This Userbot is supported, please consider using [BULLSEYE-MD](https://github.com/henrygokugt99/NEXA-MD) instead if you want.”
 
 
 
-### How to enable Zero-Two On your number
--   First Open `Github Link Of Zero Two`
+### How to enable DAIMA_MD On your number
+-   First Open `Github Link Of Daima md`
 -   Click on Fork Button upwards right corner
 -  Tap Deploy Image down blew and Fill config vars
 -   Tap on Deploy button and wait 1 min
 -   Tap manage and go on `Resources` and turn on web dynos,tap on open app and Scan Qr code from WhatsApp.
--   After Scanning you can use [Kaffeine](https://kaffeine.herokuapp.com/) or just switch to worker from web.
+-   After pairing you can use [Kaffeine](https://kaffeine.herokuapp.com/) or just switch to worker from web.
 -   Bot is Working Now,Enjoy ♥️
 
 - `Thank me later.`
@@ -50,7 +50,7 @@
 - Check usage of Commands by prefix+command help eg- -scribd help
 
   
-[![](https://raw.githubusercontent.com/ZeroTwoInc/Media/main/logo/UPPER.png)](https://ZeroTwoMd.tech/#qrcode)
+[![](https://raw.githubusercontent.com/Daima-mdInc/Media/main/logo/UPPER.png)](https://ZeroTwoMd.tech/#paircode)
   
 [![Deploy](https://raw.githubusercontent.com/ZeroTwoInc/Media/main/logo/MIDDLE.png)](https://heroku.com/deploy?template=https://github.com/Sampandey001/Zero-Two-Md)
 
