@@ -97,9 +97,9 @@ npm start
 
 ## Developers
 
-[![XEON](https://github.com/dgxeon.png?size=80)](https://github.com/dgxeon) | [![Fantox](https://github.com/fantox001.png?size=100)](https://github.com/fantox001) | [![Sam Pandey](https://github.com/sampandey001.png?size=109)](https://github.com/sampandey001) | [![ISSA](https://github.com/issa2001.png?size=80)](https://github.com/issa2001) | [![Prince-Mendiratta](https://github.com/Prince-Mendiratta.png?size=80)](https://github.com/Prince-Mendiratta)
+[![XEON](https://github.com/dgxeon.png?size=80)](https://github.com/dgxeon) | [![Fantox](https://github.com/fantox001.png?size=100)](https://github.com/fantox001) | [![Sam Pandey](https://github.com/sampandey001.png?size=109)](https://github.com/sampandey001) | [![ISSA](https://github.com/issa2001.png?size=80)](https://github.com/issa2001) | [![henrygokugt-99](https://i.ibb.co/Pj0thxY/8923-nexa-logo.webp?size=80)](https://github.com/henrygokugt99)
 ----|----|----|----|----
-[XEON](https://wa.me/916909137213) | [Fantox](https://wa.me/918101187835) | [Sam Pandey](https://wa.me/919628516236) | [Issa](https://wa.me/254115175696) | [Prince-Mendiratta](https://wa.me/917838204238)
+[XEON](https://wa.me/916909137213) | [Fantox](https://wa.me/918101187835) | [Sam Pandey](https://wa.me/919628516236) | [Issa](https://wa.me/254115175696) | [henrygokugt-99](https://wa.me/256789810043)
 Base Bot  | Developer, Bug Fixes, Modules |Developer,Bug Fixes,Base, Modules, | Modules, Idea | Modules
 
 
@@ -114,7 +114,7 @@ This project is protected by `GNU General Public Licence v3.0` license.
 Feel free to contribute.
 
 ### Disclaimer
-This is an open source WhatsApp bot based on Multi Device created by [`@SamPandey001`](https://github.com/SamPandey001) & [`@fantox`](https://github.com/FantoX001) working with [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys). Do not recode it without notifying the owners otherwise you will be petitioned for fraud & copyright infringement!
+This is an open source WhatsApp bot based on Multi Device created by [`@SamPandey001`](https://github.com/SamPandey001) & [`@fantox`](https://github.com/henrygokugt99) working with [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys). Do not recode it without notifying the owners otherwise you will be petitioned for fraud & copyright infringement!
 
 ## Help
 Give a ⭐ to this repo if it helped you.
